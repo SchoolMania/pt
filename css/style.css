@@ -9,8 +9,8 @@ body {
   overflow: hidden;
   padding: 2%;
   width: 85%;
-  margin-left: 5%;
-  margin-top: 0%;
+  margin-left: 4%;
+  margin-top: -1%;
 }
 .wrapper > input {
   -webkit-appearance: none;
