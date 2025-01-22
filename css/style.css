@@ -2,7 +2,6 @@ body {
   background: #101318;
   text-shadow: 0 0 0.4vw currentColor;
   overflow: hidden;
-  transform: scale(0.8);
 }
 
 .wrapper {
@@ -29,6 +28,7 @@ body {
   display: grid;
   grid-gap: 5px;
   grid-template-columns: repeat(18, 1fr);
+  transform: scale(0.8);
 }
 
 .element {
